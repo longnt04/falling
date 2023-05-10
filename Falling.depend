@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1681893726 source:c:\users\admin\documents\sdl\falling\sdl_utils.cpp
+	"SDL_utils.h"
+	"CONSTANTS.h"
+
+1681893726 c:\users\admin\documents\sdl\falling\sdl_utils.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<SDL_ttf.h>
+
+1682041695 c:\users\admin\documents\sdl\falling\constants.h
+
+1683341444 source:c:\users\admin\documents\sdl\falling\main.cpp
+	<bits/stdc++.h>
+	<SDL_image.h>
+	<SDL.h>
+	"SDL_utils.h"
+	"CommonFunc.h"
+	"BaseOject.h"
+	"MainOject.h"
+	"ImpTimer.h"
+	"ThreatsOject.h"
+	"DATA.h"
+	"TextOject.h"
+
+1683269974 c:\users\admin\documents\sdl\falling\commonfunc.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1683269974 source:c:\users\admin\documents\sdl\falling\commonfunc.cpp
+	"CommonFunc.h"
+	<bits/stdc++.h>
+
+1682757389 source:c:\users\admin\documents\sdl\falling\baseoject.cpp
+	"BaseOject.h"
+
+1682757389 c:\users\admin\documents\sdl\falling\baseoject.h
+	"CommonFunc.h"
+
+1682776829 source:c:\users\admin\documents\sdl\falling\mainoject.cpp
+	"MainOject.h"
+	<bits/stdc++.h>
+
+1682776829 c:\users\admin\documents\sdl\falling\mainoject.h
+	"BaseOject.h"
+	"CommonFunc.h"
+
+1682428059 source:c:\users\admin\documents\sdl\falling\imptimer.cpp
+	"ImpTimer.h"
+	"CommonFunc.h"
+
+1682427912 c:\users\admin\documents\sdl\falling\imptimer.h
+
+1683012862 source:c:\users\admin\documents\sdl\falling\threatsoject.cpp
+	"ThreatsOject.h"
+	<bits/stdc++.h>
+
+1683012862 c:\users\admin\documents\sdl\falling\threatsoject.h
+	"CommonFunc.h"
+	"BaseOject.h"
+
+1682820404 c:\users\admin\documents\sdl\falling\data.h
+
+1682775561 source:c:\users\admin\documents\sdl\falling\text.cpp
+	"TextOject.h"
+
+1682764284 c:\users\admin\documents\sdl\falling\textoject.h
+	"CommonFunc.h"
+
